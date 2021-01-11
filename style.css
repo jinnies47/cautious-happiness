@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h3 {
+    color: white;
+    text-align: center;
+  }
+  
+  pr {
+    color:tomato;
+    text-align: center;
+    font-family: verdana;
+  }
+  img {
+    border: 10px solid brown;
+    border-radius: 13px;
+    height: 190px;
+    padding: 10px;
+    width: 190px;
+  }
+  
+  p {
+    color:hotpink;
+    text-align: center;
+    font-family: verdana;
+  }
