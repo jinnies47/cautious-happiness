@@ -1,27 +1,62 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h3 {
-    color: white;
-    text-align: center;
-  }
-  
-  pr {
-    color:tomato;
-    text-align: center;
-    font-family: verdana;
-  }
-  img {
-    border: 10px solid brown;
-    border-radius: 13px;
-    height: 190px;
-    padding: 10px;
-    width: 190px;
-  }
-  
-  p {
-    color:hotpink;
-    text-align: center;
-    font-family: verdana;
-  }
+header{
+  background-color:black;
+}
+.branding img{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.container{
+  max-width: 1152px;
+  padding: 0 15px;
+  margin:0 auto;
+}
+h3{
+  color:green;
+  font-size: 26px;
+}
+h4{
+  color: darkolivegreen;
+  font-size: 20px;
+}
+h6{
+  color: green;
+  font-size: 19px;
+} 
+a{
+  color:blue;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+.flex{
+  display: flex;
+}
+.items-centre{
+  align-items: center;
+}
+.Details{
+  color: aqua;
+  background-color: grey;
+}
+.btn-secondary{
+  background: whitesmoke;
+  color: darkblue;
+}
+.Skills img{
+  margin-left: 90px;
+}
+.Projects img{
+  margin-left: 90px;
+}
+.Projects a{
+ color:blueviolet;
+ font-size: 15px; 
+}
+footer{
+  background-color: darkslategrey;
+}
+.Contact img{
+  margin-left: 90px;
+}
+.Contact h1{
+  margin-left: 100px;
+}
